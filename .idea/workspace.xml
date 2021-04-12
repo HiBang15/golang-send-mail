@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38a122f7-914d-4a49-8718-5c88e6a871dd" name="Default Changelist" comment="" />
+    <list default="true" id="dc5e234b-7415-4e1c-b259-feaf0c4b03d0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/cmd/mail-service/model/mail_template.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +19,13 @@
     </option>
   </component>
   <component name="GOROOT" path="/usr/local/Cellar/go/1.15.2/libexec" />
-  <component name="ProjectId" id="1r3CYW3ipbOrHJzs8DHZilR3tY3" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1r3NKnFgmanChvPvuKz9cpK64XI" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,34 +35,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/db/mail/postgres/migration" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/db/mail" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/db/mail/postgres/migration" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/api" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="417" y="465" key="#SQL_Dialects" timestamp="1618198232509">
-      <screen x="0" y="25" width="2048" height="1214" />
-    </state>
-    <state x="417" y="465" key="#SQL_Dialects/0.25.2048.1214@0.25.2048.1214" timestamp="1618198232509" />
-    <state x="624" y="294" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618198296487">
-      <screen x="0" y="25" width="2048" height="1214" />
-    </state>
-    <state x="624" y="294" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.2048.1214@0.25.2048.1214" timestamp="1618198296487" />
-    <state x="754" y="438" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1618197138018">
-      <screen x="0" y="25" width="2048" height="1214" />
-    </state>
-    <state x="754" y="438" key="#com.intellij.fileTypes.FileTypeChooser/0.25.2048.1214@0.25.2048.1214" timestamp="1618197138018" />
   </component>
 </project>
