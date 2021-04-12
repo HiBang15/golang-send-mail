@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package sendmail;
+
+option go_package = ".;pb";
+
+import "mail_message.proto";
+
+service MailTemplateService {
+  rpc CreateMailTemplate(CreateMailTemplateRequest) returns (MailTemplate) {}
+}

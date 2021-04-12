@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+package sendmail;
+
+option go_package = ".;pb";
+
+message CreateMailTemplateRequest {
+
+}
+
+message MailTemplate {
+
+}
+
+message UpdateMailTemplateRequest {
+
+}
+
+message DeleteMailTemplateRequest {
+
+}
+
+message DeleteMailTemplateResponse {
+
+}
